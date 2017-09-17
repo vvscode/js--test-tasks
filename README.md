@@ -33,3 +33,5 @@ Structure of the repo:
 Each task placed into separate directory ( with meaningful name, starting with expected level / `any` word ). Inside should be placed `readme` file (with notes about the task, like level, source of the task, technologies stack, description for the position ) and one more directory `task-dir` with the task itself.
 
 It will be nice if you translate (or/and duplicate) all descriptions in English.
+
+There is an `any-a-very-basic-example-test-task-from-company-A` directory as example for adding test task.
