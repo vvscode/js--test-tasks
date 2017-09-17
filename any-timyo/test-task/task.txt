@@ -1,0 +1,3 @@
+Here should be placed the task description ( might be not the single file, but the structure from the company).
+
+Do something awesome for free with Angular87 and SkyScript.
