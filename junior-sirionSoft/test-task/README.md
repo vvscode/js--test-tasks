@@ -33,14 +33,14 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = false
 ```
-5. Создать форму регистрации [на макете "SingLogIn" форма registration.png](https://github.com/vvscode/js--test-tasks/tree/master/sirion-Soft/test-task/mockups).
+5. Создать форму регистрации [на макете "SingLogIn" форма registration.png](https://github.com/vvscode/js--test-tasks/tree/master/junior-sirionSoft/test-task/mockups).
 6. Api для отправки данных с формы регистрации (для работы с api используем нативный `fetch`):
 - url: http://test-task-api.insirion.ru/user/registration
 - метод: `POST`
 - Content-Type: `application/json`
 - название полей для отправки: `email, password, phone (поле логин не используем)`
 - успешный HTTP статус: `201`
-7. Создать форму авторизации [на макете "SingLogIn" форма authorization.png](https://github.com/vvscode/js--test-tasks/tree/master/sirion-Soft/test-task/mockups).
+7. Создать форму авторизации [на макете "SingLogIn" форма authorization.png](https://github.com/vvscode/js--test-tasks/tree/master/junior-sirionSoft/test-task/mockups).
 - url: http://test-task-api.insirion.ru/user/authorization
 - метод: `POST`
 - Content-Type: `application/json`
@@ -57,9 +57,9 @@ insert_final_newline = false
 - метод: `GET`
 - в заголовок запроса (header) добавить полученный токен (token-sirion: *полученный токен*)
 - успешный HTTP статус: `200`
-12. В ответ придёт массив, который надо использовать для рендеринга блока страховок [макет "main base"](https://github.com/vvscode/js--test-tasks/tree/master/sirion-Soft/test-task/mockups). По названиям полей в массиве можно понять что куда вставлять.
-13. В блоках должно быть реализовано поведение как [в макете "GUI"](https://github.com/vvscode/js--test-tasks/tree/master/sirion-Soft/test-task/mockups).
-14. Сделать адаптивную вёрстку как на макетах [Mobile, Tablet](https://github.com/vvscode/js--test-tasks/tree/master/sirion-Soft/test-task/mockups). Использовать `flexbox`.
+12. В ответ придёт массив, который надо использовать для рендеринга блока страховок [макет "main base"](https://github.com/vvscode/js--test-tasks/tree/master/junior-sirionSoft/test-task/mockups). По названиям полей в массиве можно понять что куда вставлять.
+13. В блоках должно быть реализовано поведение как [в макете "GUI"](https://github.com/vvscode/js--test-tasks/tree/master/junior-sirionSoft/test-task/mockups).
+14. Сделать адаптивную вёрстку как на макетах [Mobile, Tablet](https://github.com/vvscode/js--test-tasks/tree/master/junior-sirionSoft/test-task/mockups). Использовать `flexbox`.
 15. Дополнительное задание: сделать анимацию перехода от формы авторизации к форме регистрации (подсказка: искать в документации роутера).
 -----------
 Примечание:
