@@ -1,0 +1,10 @@
+<div class="section">
+	<div class="controlpane">
+		<button class="draft-checkin" title="Check In" ng-click="sendAction('checkin')">checkin</button>
+		<button class=" change-save " title="Save" ng-click="sendAction('save')">save</button>
+		<button class="change-discard " title="Discard" ng-click="sendAction('discard')">discard</button>
+		<button class="decide-accept " title="Accept" ng-click="sendAction('accept')">accept</button>
+		<button class="decide-decline " title="Decline" ng-click="sendAction('decline')">decline</button>
+	</div>
+	<div class="content " contenteditable="true " ng-bind-html="redlinedata.html "></div>
+</div>
