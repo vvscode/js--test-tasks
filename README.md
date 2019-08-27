@@ -35,3 +35,7 @@ Each task placed into separate directory ( with meaningful name, starting with e
 It will be nice if you translate (or/and duplicate) all descriptions in English.
 
 There is an `any-a-very-basic-example-test-task-from-company-A` directory as example for adding test task.
+
+## Related links:
+
+- https://github.com/Hexlet/ru-test-assignments Тестовые задания для самостоятельного выполнения от разных it компаний
