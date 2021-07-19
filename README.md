@@ -41,3 +41,4 @@ There is an `any-a-very-basic-example-test-task-from-company-A` directory as exa
 - https://github.com/Hexlet/ru-test-assignments Тестовые задания для самостоятельного выполнения от разных it компаний
 - https://maxpfrontend.ru/zametki/spisok-testovyh-zadaniy-ot-podpischikov-1/ Список тестовых заданий от подписчиков
 - https://logiceditor.com/ru/info/js-tasks.html Тестовое задание на вакансию JS-разработчика
+- https://github.com/Hexlet/ru-test-assignments - Подборка тестовых заданий от команды Hexlet
