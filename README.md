@@ -1,5 +1,11 @@
 # Test tasks for frontend (js in the main) developers from different sources
 
+--- 
+
+Repo is not supported any more. 
+
+I recommend you to check https://github.com/Hexlet/ru-test-assignments from the Hexlet team
+
 ---
 # Fill free to add your tasks / tasks you've met in your career
 
